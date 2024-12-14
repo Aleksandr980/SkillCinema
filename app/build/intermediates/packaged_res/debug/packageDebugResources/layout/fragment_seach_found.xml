@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/seach_found_fragment"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    tools:context=".presentation.seachFragment.SeachFoundFragment">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/white"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:id="@+id/strelkaNazad"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="16dp"
+                android:layout_marginTop="16dp"
+                android:layout_marginBottom="16dp"
+                android:background="@color/white"
+                android:gravity="left"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:srcCompat="@drawable/strelka_left" />
+
+            <TextView
+                android:id="@+id/settingSearch"
+                android:layout_width="wrap_content"
+                android:layout_height="22dp"
+                android:layout_gravity="center"
+                android:layout_marginStart="100dp"
+                android:layout_marginTop="16dp"
+                android:layout_marginBottom="16dp"
+                android:background="@color/white"
+                android:text="Настройка поиска"
+                android:textSize="18dp" />
+
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:text="Показывать" />
+    </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/bottoms"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="116dp"
+            android:layout_marginEnd="16dp"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/vse_bn"
+                android:layout_width="100dp"
+                android:layout_height="50dp"
+                android:gravity="center"
+                android:background="@drawable/left_bg_indigo_white"
+                android:clickable="true"
+                android:text="Все"
+                android:textColor="@drawable/white_black"
+                android:textSize="18dp"
+                />
+
+            <TextView
+                android:id="@+id/films_bn"
+                android:layout_width="152dp"
+                android:layout_height="50dp"
+                android:gravity="center"
+                android:background="@drawable/centr_bg_white_indigo"
+                android:clickable="true"
+                android:text="Фильмы"
+                android:textColor="@drawable/black_white"
+                android:textSize="18dp"/>
+
+            <TextView
+                android:id="@+id/serials_bn"
+                android:layout_width="125dp"
+                android:layout_height="50dp"
+                android:gravity="center"
+                android:background="@drawable/right_bg_white_indigo"
+                android:clickable="true"
+                android:text="Сериалы"
+                android:textColor="@drawable/black_white"
+                android:textSize="18dp"/>
+        </LinearLayout>
+
+<!--    <androidx.recyclerview.widget.RecyclerView-->
+<!--        android:id="@+id/botton_recycler"-->
+<!--        android:name="com.example.skillcinema.presentation.seachFoundFragment.SeachFoundFragment"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="50dp"-->
+<!--        android:layout_marginStart="16dp"-->
+<!--        android:layout_marginTop="114dp"-->
+<!--        android:layout_marginEnd="16dp"-->
+<!--        android:orientation="horizontal"-->
+
+<!--        app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"-->
+<!--        app:layout_constraintBottom_toBottomOf="parent"-->
+<!--        app:layout_constraintEnd_toEndOf="parent"-->
+<!--        app:layout_constraintStart_toStartOf="parent"-->
+<!--        app:layout_constraintTop_toBottomOf="parent"-->
+<!--        tools:context=".presentation.seachFoundFragment.SeachFoundFragment"-->
+<!--        tools:ignore="SpeakableTextPresentCheck"-->
+<!--        tools:listitem="@layout/button_seach" />-->
+
+    <LinearLayout
+        android:id="@+id/linearlayout_country"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="186dp"
+        android:layout_marginEnd="16dp"
+        android:clickable="true"
+        android:background="@drawable/films_white"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/country"
+            android:layout_width="100dp"
+            android:layout_height="50dp"
+            android:gravity="center_vertical"
+            android:text="Страна"
+            android:clickable="true"
+            android:textColor="@color/black" />
+
+        <TextView
+            android:id="@+id/country_item"
+            android:layout_width="150dp"
+            android:layout_height="50dp"
+            android:layout_marginStart="120dp"
+            android:gravity="right"
+            android:text="Россия"
+            android:textColor="@color/gray" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/linearlayout_genre"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="234dp"
+        android:layout_marginEnd="16dp"
+        android:clickable="true"
+        android:background="@drawable/films_white"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/genre"
+            android:layout_width="100dp"
+            android:layout_height="50dp"
+            android:gravity="center_vertical"
+            android:text="Жанр"
+            android:clickable="true"
+            android:textColor="@color/black" />
+
+        <TextView
+            android:id="@+id/genre_item"
+            android:layout_width="100dp"
+            android:layout_height="50dp"
+            android:layout_marginStart="170dp"
+            android:gravity="right"
+            android:text="Комедия"
+            android:textColor="@color/gray" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/linearlayout_year"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="280dp"
+        android:layout_marginEnd="16dp"
+        android:clickable="true"
+        android:background="@drawable/films_white"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/year"
+            android:layout_width="100dp"
+            android:layout_height="50dp"
+            android:gravity="center_vertical"
+            android:text="Год"
+            android:clickable="true"
+            android:textColor="@color/black" />
+
+        <TextView
+            android:id="@+id/year_item1"
+            android:layout_width="10dp"
+            android:layout_height="50dp"
+            android:layout_marginStart="153dp"
+            android:text="С "
+            android:textColor="@color/gray" />
+
+        <TextView
+            android:id="@+id/year_item2"
+            android:layout_width="40dp"
+            android:layout_height="50dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:text="1977 "
+            android:textColor="@color/gray" />
+
+        <TextView
+            android:id="@+id/year_item3"
+            android:layout_width="20dp"
+            android:layout_height="50dp"
+            android:text="по "
+            android:textColor="@color/gray" />
+        <TextView
+            android:id="@+id/year_item4"
+            android:layout_width="40dp"
+            android:layout_height="50dp"
+            android:gravity="right"
+            android:text="2024"
+            android:textColor="@color/gray" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="350dp"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="25dp"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="25dp"
+                android:paddingBottom="8dp"
+                android:text="Рейтинг"
+                android:textSize="18dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="25dp"
+                android:layout_marginStart="240dp"
+                android:paddingBottom="8dp"
+                android:text="Любой"
+                android:textColor="@color/gray"
+                android:textSize="18dp" />
+
+        </LinearLayout>
+
+        <com.yahoo.mobile.client.android.util.rangeseekbar.RangeSeekBar
+            android:id="@+id/rskFreq"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:scrollbarThumbHorizontal="@color/indigo"
+            app:absoluteMaxValue="1"
+            app:absoluteMinValue="10" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/rangeStart"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="5dp"
+                android:paddingTop="16dp"
+                android:text="1"
+                android:textSize="18sp" />
+
+            <TextView
+                android:id="@+id/rangeFinish"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="340dp"
+                android:paddingTop="16dp"
+                android:text="10"
+                android:textSize="18sp" />
+        </LinearLayout>
+
+
+
+
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="520dp"
+        android:text="Сортировать" />
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="52dp"
+    android:orientation="horizontal"
+    android:layout_marginTop="560dp"
+    android:layout_marginStart="16dp"
+    android:layout_marginEnd="16dp">
+    <TextView
+        android:id="@+id/date_bn"
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:clickable="true"
+        android:background="@drawable/left_bg_indigo_white"
+        android:text="Дата"
+        android:textColor="@drawable/white_black"
+        android:textSize="18dp"
+        android:gravity="center"/>
+    <TextView
+        android:id="@+id/popular_bn"
+        android:layout_width="152dp"
+        android:layout_height="50dp"
+        android:clickable="true"
+        android:background="@drawable/centr_bg_white_indigo"
+        android:text="Популярность"
+        android:textColor="@drawable/black_white"
+        android:textSize="18dp"
+        android:gravity="center"/>
+    <TextView
+        android:id="@+id/rating_bn"
+        android:layout_width="125dp"
+        android:layout_height="50dp"
+        android:clickable="true"
+        android:background="@drawable/right_bg_white_indigo"
+        android:text="Рейтинг"
+        android:textColor="@drawable/black_white"
+        android:textSize="18dp"
+        android:gravity="center"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="640dp"
+        android:background="@color/white"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:id="@+id/preview_icon"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="56dp"
+            android:layout_marginTop="16dp"
+            android:layout_marginBottom="16dp"
+            android:background="@drawable/preview"/>
+
+        <TextView
+            android:id="@+id/preview"
+            android:layout_width="wrap_content"
+            android:layout_height="22dp"
+            android:layout_gravity="center"
+            android:layout_marginStart="50dp"
+            android:layout_marginTop="12dp"
+            android:layout_marginBottom="16dp"
+            android:background="@color/white"
+            android:text="Не просмотрен"
+            android:textSize="18dp" />
+
+    </LinearLayout>
+</FrameLayout>

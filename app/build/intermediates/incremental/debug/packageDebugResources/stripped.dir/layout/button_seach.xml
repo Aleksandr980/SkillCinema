@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/buttonItem"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@drawable/button_bg">
+
+
+    <Button
+        android:id="@+id/button_seach"
+        android:layout_width="126dp"
+        android:layout_height="50dp"
+        android:width="2dp"
+        android:backgroundTint="@color/button_state_color"
+        android:color="@color/black"
+        android:radius="20dp"
+        android:shape="rectangle"
+        android:text="button"
+        android:textColor="@color/black"  />
+</FrameLayout>

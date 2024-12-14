@@ -1,0 +1,6 @@
+com.example.skillcinema.test.app-jetified-core-1.6.1-0 C:\Users\FAN17\.gradle\caches\8.9\transforms\4620d8460d89cd8919c432f8e24a9a4f\transformed\jetified-core-1.6.1\res
+com.example.skillcinema.test.app-jetified-tracing-1.2.0-1 C:\Users\FAN17\.gradle\caches\8.9\transforms\71fda81a0a3cc417f75c49b00ba8e819\transformed\jetified-tracing-1.2.0\res
+com.example.skillcinema.test.app-androidTest-2 C:\Users\FAN17\AndroidStudioProjects\final_android_lvl1\SkillCinema\app\build\generated\res\resValues\androidTest\debug
+com.example.skillcinema.test.app-mergeDebugAndroidTestResources-3 C:\Users\FAN17\AndroidStudioProjects\final_android_lvl1\SkillCinema\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.skillcinema.test.app-mergeDebugAndroidTestResources-4 C:\Users\FAN17\AndroidStudioProjects\final_android_lvl1\SkillCinema\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.skillcinema.test.app-debugAndroidTest-5 C:\Users\FAN17\AndroidStudioProjects\final_android_lvl1\SkillCinema\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

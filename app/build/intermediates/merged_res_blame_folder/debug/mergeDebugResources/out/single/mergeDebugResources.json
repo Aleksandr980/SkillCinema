@@ -1,0 +1,510 @@
+[
+    {
+        "merged": "com.example.skillcinema.app-debug-82:/drawable_share.png.flat",
+        "source": "com.example.skillcinema.app-main-84:/drawable/share.png"
+    },
+    {
+        "merged": "com.example.skillcinema.app-debug-82:/layout_fragment_loader.xml.flat",
+        "source": "com.example.skillcinema.app-main-84:/layout/fragment_loader.xml"
+    },
+    {
+        "merged": "com.example.skillcinema.app-debug-82:/drawable_vse_indigo.xml.flat",
+        "source": "com.example.skillcinema.app-main-84:/drawable/vse_indigo.xml"
+    },
+    {
+        "merged": "com.example.skillcinema.app-debug-82:/color_right_bg_indigo_white.xml.flat",
+        "source": "com.example.skillcinema.app-main-84:/color/right_bg_indigo_white.xml"
+    },
+    {
+        "merged": "com.example.skillcinema.app-debug-82:/drawable_rating_white.xml.flat",
+        "source": "com.example.skillcinema.app-main-84:/drawable/rating_white.xml"
+    },
+    {
+        "merged": "com.example.skillcinema.app-debug-82:/drawable_bookmark.png.flat",
+        "source": "com.example.skillcinema.app-main-84:/drawable/bookmark.png"
+    },
+    {
+        "merged": "com.example.skillcinema.app-debug-82:/layout_fragment_gallery_frames.xml.flat",
+        "source": "com.example.skillcinema.app-main-84:/layout/fragment_gallery_frames.xml"
+    },
+    {
+        "merged": "com.example.skillcinema.app-debug-82:/drawable_strelkarigth.png.flat",
+        "source": "com.example.skillcinema.app-main-84:/drawable/strelkarigth.png"
+    },
+    {
+        "merged": "com.example.skillcinema.app-debug-82:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.skillcinema.app-main-84:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.skillcinema.app-debug-82:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.skillcinema.app-main-84:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.skillcinema.app-debug-82:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.skillcinema.app-main-84:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.skillcinema.app-debug-82:/drawable_popular_white.xml.flat",
+        "source": "com.example.skillcinema.app-main-84:/drawable/popular_white.xml"
+    },
+    {
+        "merged": "com.example.skillcinema.app-debug-82:/drawable_data_indigo.xml.flat",
+        "source": "com.example.skillcinema.app-main-84:/drawable/data_indigo.xml"
+    },
+    {
+        "merged": "com.example.skillcinema.app-debug-82:/drawable_frame1_onboarding.png.flat",
+        "source": "com.example.skillcinema.app-main-84:/drawable/frame1_onboarding.png"
+    },
+    {
+        "merged": "com.example.skillcinema.app-debug-82:/drawable_icons_searche.png.flat",
+        "source": "com.example.skillcinema.app-main-84:/drawable/icons_searche.png"
+    },
+    {
+        "merged": "com.example.skillcinema.app-debug-82:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.skillcinema.app-main-84:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.skillcinema.app-debug-82:/drawable_icons_contact.png.flat",
+        "source": "com.example.skillcinema.app-main-84:/drawable/icons_contact.png"
+    },
+    {
+        "merged": "com.example.skillcinema.app-debug-82:/drawable_right_bg_indigo_white.xml.flat",
+        "source": "com.example.skillcinema.app-main-84:/drawable/right_bg_indigo_white.xml"
+    },
+    {
+        "merged": "com.example.skillcinema.app-debug-82:/layout_fragment_actorpage.xml.flat",
+        "source": "com.example.skillcinema.app-main-84:/layout/fragment_actorpage.xml"
+    },
+    {
+        "merged": "com.example.skillcinema.app-debug-82:/drawable_poisk.png.flat",
+        "source": "com.example.skillcinema.app-main-84:/drawable/poisk.png"
+    },
+    {
+        "merged": "com.example.skillcinema.app-debug-82:/navigation_nav_graph.xml.flat",
+        "source": "com.example.skillcinema.app-main-84:/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "com.example.skillcinema.app-debug-82:/drawable_vse_white.xml.flat",
+        "source": "com.example.skillcinema.app-main-84:/drawable/vse_white.xml"
+    },
+    {
+        "merged": "com.example.skillcinema.app-debug-82:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.skillcinema.app-main-84:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.skillcinema.app-debug-82:/drawable_white_black.xml.flat",
+        "source": "com.example.skillcinema.app-main-84:/drawable/white_black.xml"
+    },
+    {
+        "merged": "com.example.skillcinema.app-debug-82:/color_centr_bg_indigo_white.xml.flat",
+        "source": "com.example.skillcinema.app-main-84:/color/centr_bg_indigo_white.xml"
+    },
+    {
+        "merged": "com.example.skillcinema.app-debug-82:/drawable_serials_indigo.xml.flat",
+        "source": "com.example.skillcinema.app-main-84:/drawable/serials_indigo.xml"
+    },
+    {
+        "merged": "com.example.skillcinema.app-debug-82:/drawable_back_arrow_icon.png.flat",
+        "source": "com.example.skillcinema.app-main-84:/drawable/back_arrow_icon.png"
+    },
+    {
+        "merged": "com.example.skillcinema.app-debug-82:/layout_fragment_listpage_popular.xml.flat",
+        "source": "com.example.skillcinema.app-main-84:/layout/fragment_listpage_popular.xml"
+    },
+    {
+        "merged": "com.example.skillcinema.app-debug-82:/drawable_rating_indigo.xml.flat",
+        "source": "com.example.skillcinema.app-main-84:/drawable/rating_indigo.xml"
+    },
+    {
+        "merged": "com.example.skillcinema.app-debug-82:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.skillcinema.app-main-84:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.skillcinema.app-debug-82:/layout_fragment_seach.xml.flat",
+        "source": "com.example.skillcinema.app-main-84:/layout/fragment_seach.xml"
+    },
+    {
+        "merged": "com.example.skillcinema.app-debug-82:/layout_fragment_listpage_top250.xml.flat",
+        "source": "com.example.skillcinema.app-main-84:/layout/fragment_listpage_top250.xml"
+    },
+    {
+        "merged": "com.example.skillcinema.app-debug-82:/mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "com.example.skillcinema.app-main-84:/mipmap-anydpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.skillcinema.app-debug-82:/drawable_seach.xml.flat",
+        "source": "com.example.skillcinema.app-main-84:/drawable/seach.xml"
+    },
+    {
+        "merged": "com.example.skillcinema.app-debug-82:/color_black_white.xml.flat",
+        "source": "com.example.skillcinema.app-main-84:/color/black_white.xml"
+    },
+    {
+        "merged": "com.example.skillcinema.app-debug-82:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.skillcinema.app-main-84:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.skillcinema.app-debug-82:/layout_homepage_item.xml.flat",
+        "source": "com.example.skillcinema.app-main-84:/layout/homepage_item.xml"
+    },
+    {
+        "merged": "com.example.skillcinema.app-debug-82:/drawable_strelka_vpravo_32.png.flat",
+        "source": "com.example.skillcinema.app-main-84:/drawable/strelka_vpravo_32.png"
+    },
+    {
+        "merged": "com.example.skillcinema.app-debug-82:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.skillcinema.app-main-84:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.skillcinema.app-debug-82:/layout_item_year.xml.flat",
+        "source": "com.example.skillcinema.app-main-84:/layout/item_year.xml"
+    },
+    {
+        "merged": "com.example.skillcinema.app-debug-82:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.skillcinema.app-main-84:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.skillcinema.app-debug-82:/drawable_frame3_onboarding.png.flat",
+        "source": "com.example.skillcinema.app-main-84:/drawable/frame3_onboarding.png"
+    },
+    {
+        "merged": "com.example.skillcinema.app-debug-82:/drawable_preview.png.flat",
+        "source": "com.example.skillcinema.app-main-84:/drawable/preview.png"
+    },
+    {
+        "merged": "com.example.skillcinema.app-debug-82:/drawable_like.png.flat",
+        "source": "com.example.skillcinema.app-main-84:/drawable/like.png"
+    },
+    {
+        "merged": "com.example.skillcinema.app-debug-82:/layout_fragment_listpage_premieres.xml.flat",
+        "source": "com.example.skillcinema.app-main-84:/layout/fragment_listpage_premieres.xml"
+    },
+    {
+        "merged": "com.example.skillcinema.app-debug-82:/layout_fragment_listpage_serials.xml.flat",
+        "source": "com.example.skillcinema.app-main-84:/layout/fragment_listpage_serials.xml"
+    },
+    {
+        "merged": "com.example.skillcinema.app-debug-82:/layout_fragment_search_country.xml.flat",
+        "source": "com.example.skillcinema.app-main-84:/layout/fragment_search_country.xml"
+    },
+    {
+        "merged": "com.example.skillcinema.app-debug-82:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.skillcinema.app-main-84:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.skillcinema.app-debug-82:/layout_person_item.xml.flat",
+        "source": "com.example.skillcinema.app-main-84:/layout/person_item.xml"
+    },
+    {
+        "merged": "com.example.skillcinema.app-debug-82:/drawable_centr_bg_indigo_white.xml.flat",
+        "source": "com.example.skillcinema.app-main-84:/drawable/centr_bg_indigo_white.xml"
+    },
+    {
+        "merged": "com.example.skillcinema.app-debug-82:/drawable_frame_bg.xml.flat",
+        "source": "com.example.skillcinema.app-main-84:/drawable/frame_bg.xml"
+    },
+    {
+        "merged": "com.example.skillcinema.app-debug-82:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.skillcinema.app-main-84:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.skillcinema.app-debug-82:/drawable_strelka_left.png.flat",
+        "source": "com.example.skillcinema.app-main-84:/drawable/strelka_left.png"
+    },
+    {
+        "merged": "com.example.skillcinema.app-debug-82:/layout_fragment_onboarding3.xml.flat",
+        "source": "com.example.skillcinema.app-main-84:/layout/fragment_onboarding3.xml"
+    },
+    {
+        "merged": "com.example.skillcinema.app-debug-82:/drawable_centr_bg_white_indigo.xml.flat",
+        "source": "com.example.skillcinema.app-main-84:/drawable/centr_bg_white_indigo.xml"
+    },
+    {
+        "merged": "com.example.skillcinema.app-debug-82:/layout_similars_item.xml.flat",
+        "source": "com.example.skillcinema.app-main-84:/layout/similars_item.xml"
+    },
+    {
+        "merged": "com.example.skillcinema.app-debug-82:/drawable_any.png.flat",
+        "source": "com.example.skillcinema.app-main-84:/drawable/any.png"
+    },
+    {
+        "merged": "com.example.skillcinema.app-debug-82:/drawable_contact.png.flat",
+        "source": "com.example.skillcinema.app-main-84:/drawable/contact.png"
+    },
+    {
+        "merged": "com.example.skillcinema.app-debug-82:/drawable_frame2_onboarding.png.flat",
+        "source": "com.example.skillcinema.app-main-84:/drawable/frame2_onboarding.png"
+    },
+    {
+        "merged": "com.example.skillcinema.app-debug-82:/mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "com.example.skillcinema.app-main-84:/mipmap-anydpi/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.skillcinema.app-debug-82:/layout_fragment_homepage.xml.flat",
+        "source": "com.example.skillcinema.app-main-84:/layout/fragment_homepage.xml"
+    },
+    {
+        "merged": "com.example.skillcinema.app-debug-82:/layout_seach_item.xml.flat",
+        "source": "com.example.skillcinema.app-main-84:/layout/seach_item.xml"
+    },
+    {
+        "merged": "com.example.skillcinema.app-debug-82:/layout_fragment_gallery_posters.xml.flat",
+        "source": "com.example.skillcinema.app-main-84:/layout/fragment_gallery_posters.xml"
+    },
+    {
+        "merged": "com.example.skillcinema.app-debug-82:/layout_activity_main.xml.flat",
+        "source": "com.example.skillcinema.app-main-84:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.skillcinema.app-debug-82:/color_white_black.xml.flat",
+        "source": "com.example.skillcinema.app-main-84:/color/white_black.xml"
+    },
+    {
+        "merged": "com.example.skillcinema.app-debug-82:/layout_fragment_gallery_from_films.xml.flat",
+        "source": "com.example.skillcinema.app-main-84:/layout/fragment_gallery_from_films.xml"
+    },
+    {
+        "merged": "com.example.skillcinema.app-debug-82:/drawable_next_arrow_icon.png.flat",
+        "source": "com.example.skillcinema.app-main-84:/drawable/next_arrow_icon.png"
+    },
+    {
+        "merged": "com.example.skillcinema.app-debug-82:/color_centr_bg_white_indigo.xml.flat",
+        "source": "com.example.skillcinema.app-main-84:/color/centr_bg_white_indigo.xml"
+    },
+    {
+        "merged": "com.example.skillcinema.app-debug-82:/layout_fragment_filmpage.xml.flat",
+        "source": "com.example.skillcinema.app-main-84:/layout/fragment_filmpage.xml"
+    },
+    {
+        "merged": "com.example.skillcinema.app-debug-82:/drawable_strelka_vse.png.flat",
+        "source": "com.example.skillcinema.app-main-84:/drawable/strelka_vse.png"
+    },
+    {
+        "merged": "com.example.skillcinema.app-debug-82:/drawable_strelka_vlevo_32.png.flat",
+        "source": "com.example.skillcinema.app-main-84:/drawable/strelka_vlevo_32.png"
+    },
+    {
+        "merged": "com.example.skillcinema.app-debug-82:/layout_button_seach.xml.flat",
+        "source": "com.example.skillcinema.app-main-84:/layout/button_seach.xml"
+    },
+    {
+        "merged": "com.example.skillcinema.app-debug-82:/layout_gallery_item.xml.flat",
+        "source": "com.example.skillcinema.app-main-84:/layout/gallery_item.xml"
+    },
+    {
+        "merged": "com.example.skillcinema.app-debug-82:/drawable_button_vse.png.flat",
+        "source": "com.example.skillcinema.app-main-84:/drawable/button_vse.png"
+    },
+    {
+        "merged": "com.example.skillcinema.app-debug-82:/drawable_icons_home.png.flat",
+        "source": "com.example.skillcinema.app-main-84:/drawable/icons_home.png"
+    },
+    {
+        "merged": "com.example.skillcinema.app-debug-82:/drawable_filter_seach.png.flat",
+        "source": "com.example.skillcinema.app-main-84:/drawable/filter_seach.png"
+    },
+    {
+        "merged": "com.example.skillcinema.app-debug-82:/drawable_strelka_vlevo_16.png.flat",
+        "source": "com.example.skillcinema.app-main-84:/drawable/strelka_vlevo_16.png"
+    },
+    {
+        "merged": "com.example.skillcinema.app-debug-82:/layout_director_item.xml.flat",
+        "source": "com.example.skillcinema.app-main-84:/layout/director_item.xml"
+    },
+    {
+        "merged": "com.example.skillcinema.app-debug-82:/color_left_bg_white_indigo.xml.flat",
+        "source": "com.example.skillcinema.app-main-84:/color/left_bg_white_indigo.xml"
+    },
+    {
+        "merged": "com.example.skillcinema.app-debug-82:/color_button_state_color.xml.flat",
+        "source": "com.example.skillcinema.app-main-84:/color/button_state_color.xml"
+    },
+    {
+        "merged": "com.example.skillcinema.app-debug-82:/drawable_left_bg_white_indigo.xml.flat",
+        "source": "com.example.skillcinema.app-main-84:/drawable/left_bg_white_indigo.xml"
+    },
+    {
+        "merged": "com.example.skillcinema.app-debug-82:/layout_fragment_seach_error.xml.flat",
+        "source": "com.example.skillcinema.app-main-84:/layout/fragment_seach_error.xml"
+    },
+    {
+        "merged": "com.example.skillcinema.app-debug-82:/drawable_left_bg_indigo_white.xml.flat",
+        "source": "com.example.skillcinema.app-main-84:/drawable/left_bg_indigo_white.xml"
+    },
+    {
+        "merged": "com.example.skillcinema.app-debug-82:/layout_item_description.xml.flat",
+        "source": "com.example.skillcinema.app-main-84:/layout/item_description.xml"
+    },
+    {
+        "merged": "com.example.skillcinema.app-debug-82:/drawable_serials_white.xml.flat",
+        "source": "com.example.skillcinema.app-main-84:/drawable/serials_white.xml"
+    },
+    {
+        "merged": "com.example.skillcinema.app-debug-82:/layout_fragment_director.xml.flat",
+        "source": "com.example.skillcinema.app-main-84:/layout/fragment_director.xml"
+    },
+    {
+        "merged": "com.example.skillcinema.app-debug-82:/layout_actor_item.xml.flat",
+        "source": "com.example.skillcinema.app-main-84:/layout/actor_item.xml"
+    },
+    {
+        "merged": "com.example.skillcinema.app-debug-82:/drawable_black_white.xml.flat",
+        "source": "com.example.skillcinema.app-main-84:/drawable/black_white.xml"
+    },
+    {
+        "merged": "com.example.skillcinema.app-debug-82:/drawable_frame6_onboarding2.png.flat",
+        "source": "com.example.skillcinema.app-main-84:/drawable/frame6_onboarding2.png"
+    },
+    {
+        "merged": "com.example.skillcinema.app-debug-82:/drawable_frame4_onboarding.png.flat",
+        "source": "com.example.skillcinema.app-main-84:/drawable/frame4_onboarding.png"
+    },
+    {
+        "merged": "com.example.skillcinema.app-debug-82:/color_left_bg_indigo_white.xml.flat",
+        "source": "com.example.skillcinema.app-main-84:/color/left_bg_indigo_white.xml"
+    },
+    {
+        "merged": "com.example.skillcinema.app-debug-82:/drawable_glaz.png.flat",
+        "source": "com.example.skillcinema.app-main-84:/drawable/glaz.png"
+    },
+    {
+        "merged": "com.example.skillcinema.app-debug-82:/layout_fragment_search_genre.xml.flat",
+        "source": "com.example.skillcinema.app-main-84:/layout/fragment_search_genre.xml"
+    },
+    {
+        "merged": "com.example.skillcinema.app-debug-82:/layout_profile_item.xml.flat",
+        "source": "com.example.skillcinema.app-main-84:/layout/profile_item.xml"
+    },
+    {
+        "merged": "com.example.skillcinema.app-debug-82:/drawable_show_vse.png.flat",
+        "source": "com.example.skillcinema.app-main-84:/drawable/show_vse.png"
+    },
+    {
+        "merged": "com.example.skillcinema.app-debug-82:/drawable_right_bg_white_indigo.xml.flat",
+        "source": "com.example.skillcinema.app-main-84:/drawable/right_bg_white_indigo.xml"
+    },
+    {
+        "merged": "com.example.skillcinema.app-debug-82:/drawable_frame8_onboarding3.png.flat",
+        "source": "com.example.skillcinema.app-main-84:/drawable/frame8_onboarding3.png"
+    },
+    {
+        "merged": "com.example.skillcinema.app-debug-82:/drawable_popular_indigo.xml.flat",
+        "source": "com.example.skillcinema.app-main-84:/drawable/popular_indigo.xml"
+    },
+    {
+        "merged": "com.example.skillcinema.app-debug-82:/drawable_frame5_onboarding2.png.flat",
+        "source": "com.example.skillcinema.app-main-84:/drawable/frame5_onboarding2.png"
+    },
+    {
+        "merged": "com.example.skillcinema.app-debug-82:/layout_fragment_profile.xml.flat",
+        "source": "com.example.skillcinema.app-main-84:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "com.example.skillcinema.app-debug-82:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.skillcinema.app-main-84:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.skillcinema.app-debug-82:/drawable_strelka.png.flat",
+        "source": "com.example.skillcinema.app-main-84:/drawable/strelka.png"
+    },
+    {
+        "merged": "com.example.skillcinema.app-debug-82:/drawable_frame7_onboarding3.png.flat",
+        "source": "com.example.skillcinema.app-main-84:/drawable/frame7_onboarding3.png"
+    },
+    {
+        "merged": "com.example.skillcinema.app-debug-82:/layout_fragment_seach_found.xml.flat",
+        "source": "com.example.skillcinema.app-main-84:/layout/fragment_seach_found.xml"
+    },
+    {
+        "merged": "com.example.skillcinema.app-debug-82:/drawable_films_white.xml.flat",
+        "source": "com.example.skillcinema.app-main-84:/drawable/films_white.xml"
+    },
+    {
+        "merged": "com.example.skillcinema.app-debug-82:/xml_backup_rules.xml.flat",
+        "source": "com.example.skillcinema.app-main-84:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.skillcinema.app-debug-82:/drawable_likebar.png.flat",
+        "source": "com.example.skillcinema.app-main-84:/drawable/likebar.png"
+    },
+    {
+        "merged": "com.example.skillcinema.app-debug-82:/layout_show_vse.xml.flat",
+        "source": "com.example.skillcinema.app-main-84:/layout/show_vse.xml"
+    },
+    {
+        "merged": "com.example.skillcinema.app-debug-82:/layout_fragment_onboarding2.xml.flat",
+        "source": "com.example.skillcinema.app-main-84:/layout/fragment_onboarding2.xml"
+    },
+    {
+        "merged": "com.example.skillcinema.app-debug-82:/layout_fragment_search_year.xml.flat",
+        "source": "com.example.skillcinema.app-main-84:/layout/fragment_search_year.xml"
+    },
+    {
+        "merged": "com.example.skillcinema.app-debug-82:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.skillcinema.app-main-84:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.skillcinema.app-debug-82:/color_right_bg_white_indigo.xml.flat",
+        "source": "com.example.skillcinema.app-main-84:/color/right_bg_white_indigo.xml"
+    },
+    {
+        "merged": "com.example.skillcinema.app-debug-82:/drawable_strelka_vpravo_16.png.flat",
+        "source": "com.example.skillcinema.app-main-84:/drawable/strelka_vpravo_16.png"
+    },
+    {
+        "merged": "com.example.skillcinema.app-debug-82:/drawable_films_indigo.xml.flat",
+        "source": "com.example.skillcinema.app-main-84:/drawable/films_indigo.xml"
+    },
+    {
+        "merged": "com.example.skillcinema.app-debug-82:/layout_button_white_gallery_item.xml.flat",
+        "source": "com.example.skillcinema.app-main-84:/layout/button_white_gallery_item.xml"
+    },
+    {
+        "merged": "com.example.skillcinema.app-debug-82:/layout_main_poster_item.xml.flat",
+        "source": "com.example.skillcinema.app-main-84:/layout/main_poster_item.xml"
+    },
+    {
+        "merged": "com.example.skillcinema.app-debug-82:/layout_fragment_listpage_dramas_france.xml.flat",
+        "source": "com.example.skillcinema.app-main-84:/layout/fragment_listpage_dramas_france.xml"
+    },
+    {
+        "merged": "com.example.skillcinema.app-debug-82:/drawable_button_bg.xml.flat",
+        "source": "com.example.skillcinema.app-main-84:/drawable/button_bg.xml"
+    },
+    {
+        "merged": "com.example.skillcinema.app-debug-82:/drawable_home.png.flat",
+        "source": "com.example.skillcinema.app-main-84:/drawable/home.png"
+    },
+    {
+        "merged": "com.example.skillcinema.app-debug-82:/drawable_seach_icon.png.flat",
+        "source": "com.example.skillcinema.app-main-84:/drawable/seach_icon.png"
+    },
+    {
+        "merged": "com.example.skillcinema.app-debug-82:/drawable_rectangle.png.flat",
+        "source": "com.example.skillcinema.app-main-84:/drawable/rectangle.png"
+    },
+    {
+        "merged": "com.example.skillcinema.app-debug-82:/layout_fragment_listpage_us_militants.xml.flat",
+        "source": "com.example.skillcinema.app-main-84:/layout/fragment_listpage_us_militants.xml"
+    },
+    {
+        "merged": "com.example.skillcinema.app-debug-82:/color_button_count_color.xml.flat",
+        "source": "com.example.skillcinema.app-main-84:/color/button_count_color.xml"
+    },
+    {
+        "merged": "com.example.skillcinema.app-debug-82:/layout_fragment_profile_custom.xml.flat",
+        "source": "com.example.skillcinema.app-main-84:/layout/fragment_profile_custom.xml"
+    },
+    {
+        "merged": "com.example.skillcinema.app-debug-82:/drawable_data_white.xml.flat",
+        "source": "com.example.skillcinema.app-main-84:/drawable/data_white.xml"
+    },
+    {
+        "merged": "com.example.skillcinema.app-debug-82:/layout_fragment_onboarding.xml.flat",
+        "source": "com.example.skillcinema.app-main-84:/layout/fragment_onboarding.xml"
+    },
+    {
+        "merged": "com.example.skillcinema.app-debug-82:/drawable_serials_bn.png.flat",
+        "source": "com.example.skillcinema.app-main-84:/drawable/serials_bn.png"
+    }
+]

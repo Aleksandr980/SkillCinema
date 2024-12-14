@@ -1,0 +1,162 @@
+[
+    {
+        "merged": "com.example.skillcinema.app-mergeDebugResources-81:/layout/fragment_actorpage.xml",
+        "source": "com.example.skillcinema.app-main-84:/layout/fragment_actorpage.xml"
+    },
+    {
+        "merged": "com.example.skillcinema.app-mergeDebugResources-81:/layout/fragment_listpage_dramas_france.xml",
+        "source": "com.example.skillcinema.app-main-84:/layout/fragment_listpage_dramas_france.xml"
+    },
+    {
+        "merged": "com.example.skillcinema.app-mergeDebugResources-81:/layout/similars_item.xml",
+        "source": "com.example.skillcinema.app-main-84:/layout/similars_item.xml"
+    },
+    {
+        "merged": "com.example.skillcinema.app-mergeDebugResources-81:/layout/fragment_onboarding.xml",
+        "source": "com.example.skillcinema.app-main-84:/layout/fragment_onboarding.xml"
+    },
+    {
+        "merged": "com.example.skillcinema.app-mergeDebugResources-81:/layout/show_vse.xml",
+        "source": "com.example.skillcinema.app-main-84:/layout/show_vse.xml"
+    },
+    {
+        "merged": "com.example.skillcinema.app-mergeDebugResources-81:/layout/fragment_search_country.xml",
+        "source": "com.example.skillcinema.app-main-84:/layout/fragment_search_country.xml"
+    },
+    {
+        "merged": "com.example.skillcinema.app-mergeDebugResources-81:/layout/gallery_item.xml",
+        "source": "com.example.skillcinema.app-main-84:/layout/gallery_item.xml"
+    },
+    {
+        "merged": "com.example.skillcinema.app-mergeDebugResources-81:/layout/fragment_gallery_frames.xml",
+        "source": "com.example.skillcinema.app-main-84:/layout/fragment_gallery_frames.xml"
+    },
+    {
+        "merged": "com.example.skillcinema.app-mergeDebugResources-81:/layout/person_item.xml",
+        "source": "com.example.skillcinema.app-main-84:/layout/person_item.xml"
+    },
+    {
+        "merged": "com.example.skillcinema.app-mergeDebugResources-81:/layout/director_item.xml",
+        "source": "com.example.skillcinema.app-main-84:/layout/director_item.xml"
+    },
+    {
+        "merged": "com.example.skillcinema.app-mergeDebugResources-81:/layout/item_description.xml",
+        "source": "com.example.skillcinema.app-main-84:/layout/item_description.xml"
+    },
+    {
+        "merged": "com.example.skillcinema.app-mergeDebugResources-81:/layout/seach_item.xml",
+        "source": "com.example.skillcinema.app-main-84:/layout/seach_item.xml"
+    },
+    {
+        "merged": "com.example.skillcinema.app-mergeDebugResources-81:/layout/activity_main.xml",
+        "source": "com.example.skillcinema.app-main-84:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.skillcinema.app-mergeDebugResources-81:/layout/fragment_listpage_popular.xml",
+        "source": "com.example.skillcinema.app-main-84:/layout/fragment_listpage_popular.xml"
+    },
+    {
+        "merged": "com.example.skillcinema.app-mergeDebugResources-81:/layout/fragment_onboarding2.xml",
+        "source": "com.example.skillcinema.app-main-84:/layout/fragment_onboarding2.xml"
+    },
+    {
+        "merged": "com.example.skillcinema.app-mergeDebugResources-81:/layout/fragment_seach.xml",
+        "source": "com.example.skillcinema.app-main-84:/layout/fragment_seach.xml"
+    },
+    {
+        "merged": "com.example.skillcinema.app-mergeDebugResources-81:/layout/fragment_profile.xml",
+        "source": "com.example.skillcinema.app-main-84:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "com.example.skillcinema.app-mergeDebugResources-81:/layout/fragment_search_year.xml",
+        "source": "com.example.skillcinema.app-main-84:/layout/fragment_search_year.xml"
+    },
+    {
+        "merged": "com.example.skillcinema.app-mergeDebugResources-81:/layout/button_white_gallery_item.xml",
+        "source": "com.example.skillcinema.app-main-84:/layout/button_white_gallery_item.xml"
+    },
+    {
+        "merged": "com.example.skillcinema.app-mergeDebugResources-81:/layout/fragment_listpage_top250.xml",
+        "source": "com.example.skillcinema.app-main-84:/layout/fragment_listpage_top250.xml"
+    },
+    {
+        "merged": "com.example.skillcinema.app-mergeDebugResources-81:/layout/fragment_gallery_from_films.xml",
+        "source": "com.example.skillcinema.app-main-84:/layout/fragment_gallery_from_films.xml"
+    },
+    {
+        "merged": "com.example.skillcinema.app-mergeDebugResources-81:/layout/fragment_profile_custom.xml",
+        "source": "com.example.skillcinema.app-main-84:/layout/fragment_profile_custom.xml"
+    },
+    {
+        "merged": "com.example.skillcinema.app-mergeDebugResources-81:/layout/fragment_loader.xml",
+        "source": "com.example.skillcinema.app-main-84:/layout/fragment_loader.xml"
+    },
+    {
+        "merged": "com.example.skillcinema.app-mergeDebugResources-81:/layout/fragment_seach_error.xml",
+        "source": "com.example.skillcinema.app-main-84:/layout/fragment_seach_error.xml"
+    },
+    {
+        "merged": "com.example.skillcinema.app-mergeDebugResources-81:/layout/fragment_onboarding3.xml",
+        "source": "com.example.skillcinema.app-main-84:/layout/fragment_onboarding3.xml"
+    },
+    {
+        "merged": "com.example.skillcinema.app-mergeDebugResources-81:/layout/fragment_search_genre.xml",
+        "source": "com.example.skillcinema.app-main-84:/layout/fragment_search_genre.xml"
+    },
+    {
+        "merged": "com.example.skillcinema.app-mergeDebugResources-81:/layout/actor_item.xml",
+        "source": "com.example.skillcinema.app-main-84:/layout/actor_item.xml"
+    },
+    {
+        "merged": "com.example.skillcinema.app-mergeDebugResources-81:/layout/homepage_item.xml",
+        "source": "com.example.skillcinema.app-main-84:/layout/homepage_item.xml"
+    },
+    {
+        "merged": "com.example.skillcinema.app-mergeDebugResources-81:/layout/fragment_listpage_us_militants.xml",
+        "source": "com.example.skillcinema.app-main-84:/layout/fragment_listpage_us_militants.xml"
+    },
+    {
+        "merged": "com.example.skillcinema.app-mergeDebugResources-81:/layout/fragment_filmpage.xml",
+        "source": "com.example.skillcinema.app-main-84:/layout/fragment_filmpage.xml"
+    },
+    {
+        "merged": "com.example.skillcinema.app-mergeDebugResources-81:/layout/profile_item.xml",
+        "source": "com.example.skillcinema.app-main-84:/layout/profile_item.xml"
+    },
+    {
+        "merged": "com.example.skillcinema.app-mergeDebugResources-81:/layout/fragment_listpage_serials.xml",
+        "source": "com.example.skillcinema.app-main-84:/layout/fragment_listpage_serials.xml"
+    },
+    {
+        "merged": "com.example.skillcinema.app-mergeDebugResources-81:/layout/fragment_gallery_posters.xml",
+        "source": "com.example.skillcinema.app-main-84:/layout/fragment_gallery_posters.xml"
+    },
+    {
+        "merged": "com.example.skillcinema.app-mergeDebugResources-81:/layout/fragment_seach_found.xml",
+        "source": "com.example.skillcinema.app-main-84:/layout/fragment_seach_found.xml"
+    },
+    {
+        "merged": "com.example.skillcinema.app-mergeDebugResources-81:/layout/fragment_listpage_premieres.xml",
+        "source": "com.example.skillcinema.app-main-84:/layout/fragment_listpage_premieres.xml"
+    },
+    {
+        "merged": "com.example.skillcinema.app-mergeDebugResources-81:/layout/item_year.xml",
+        "source": "com.example.skillcinema.app-main-84:/layout/item_year.xml"
+    },
+    {
+        "merged": "com.example.skillcinema.app-mergeDebugResources-81:/layout/fragment_homepage.xml",
+        "source": "com.example.skillcinema.app-main-84:/layout/fragment_homepage.xml"
+    },
+    {
+        "merged": "com.example.skillcinema.app-mergeDebugResources-81:/layout/fragment_director.xml",
+        "source": "com.example.skillcinema.app-main-84:/layout/fragment_director.xml"
+    },
+    {
+        "merged": "com.example.skillcinema.app-mergeDebugResources-81:/layout/main_poster_item.xml",
+        "source": "com.example.skillcinema.app-main-84:/layout/main_poster_item.xml"
+    },
+    {
+        "merged": "com.example.skillcinema.app-mergeDebugResources-81:/layout/button_seach.xml",
+        "source": "com.example.skillcinema.app-main-84:/layout/button_seach.xml"
+    }
+]
